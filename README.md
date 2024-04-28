@@ -1,1 +1,2 @@
-one more row
+#Git practice
+This repo created to practice branches, merging etc.
