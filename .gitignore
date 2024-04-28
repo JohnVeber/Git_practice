@@ -1,0 +1,8 @@
+# Test .gitignore file for learning purposes
+*.[oa]
+*~
+log
+tmp
+pid
+build/
+#Previous row essence: to ignore files inside build/ directory
